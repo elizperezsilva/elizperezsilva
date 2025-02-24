@@ -49,12 +49,15 @@ Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **A
 
 ## 📂 Projects
 🔹 **[Life_Expectancy_Project]( https://github.com/elizperezsilva/Life_Expectancy_Project)**  
+
 *The purpose of the analysis on life expectancy is to uncover potential patterns that affect the life expectancy in different communities by analyzing the correlations between factors such as; country development status, disease management, immunization coverage, and expenditure per citizen.*
 
 🔹 **[Prescription_ETL_Pipeline_Project](https://github.com/elizperezsilva/Prescription_ETL_Pipeline_Project)**  
+
 *Optimizing the extraction, transformation, and loading (ETL) processes for prescription drug pricing data sourced from the California Health and Human Services Agency (CHHS), Food and Drug Administration (FDA) and Bureau of Labor Statistics (BLS).*
 
 🔹 **[Risk_Tolerance_Project](https://github.com/elizperezsilva/Risk_Tolerance_Project)**
+
 *This project uses machine learning models (DistilBERT and Sentence Transformers) to predict the risk tolerance of investors based on their responses to a set of questions. It also recommends an investment portfolio and visualizes the allocation based on the investor's risk tolerance.*
 
 🔹 **[More Projects...](https://github.com/elizperezsilva)**  
