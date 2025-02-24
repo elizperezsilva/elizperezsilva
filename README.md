@@ -22,7 +22,9 @@ Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **A
 ## 💼 Work Experience
 🧑‍💻 **Pisenti & Brinker LLP** *(Jan 2025 - May 2025)*  
 **Audit Intern**  
-- *(Details to be added as experience is gained)*  
+- Assist in engagement set up, perform testing procedures over account balances and prepare financial statements for audits, reviews and compilations
+- Develop a working knowledge of generally accepted auditing standards and firms auditing software
+- Keep up-to-date time records in firm’s client project software
 
 🛍 **Target** *(Jan 2019 - Present)*  
 **Style Consultant**  
