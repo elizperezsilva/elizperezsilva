@@ -6,8 +6,10 @@ Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **A
 ## 📜 Education
 🎓 **Sonoma State University** *(Jan 2023 - Present)*  
 **Bachelor of Science, Business Administration (Accounting Concentration)**  
-- Expected Graduation: May 2025 (150-Unit CPA eligibility requirement)  
-- **Major GPA:** 3.285 | **Overall GPA:** 3.128  
+- **Expected Graduation:** May 2025 (150-Unit CPA eligibility requirement)
+
+**Major GPA:** 3.285 | **Overall GPA:** 3.128  
+
 - **Relevant Coursework:** Individual Taxation, Auditing, Governmental Accounting, Ethical Reasoning in Accounting, Advanced Accounting, Cost Accounting, Corporation & Estate Taxation, Intro to MIS, Business Data Analysis & Interpretation, Operations & Supply Chain Management, Managerial Finance, Marketing
 
 🎓 **University of California, Irvine** *(Jun 2024 - Dec 2024)*  
@@ -46,14 +48,24 @@ Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **A
 - **Leadership:** Gateway to Professional Success Program  
 
 ## 📂 Projects
-📌 **Coming Soon:** Hands-on projects showcasing my skills in **data analysis, visualization, and reporting**. Stay tuned!  
+🔹 **[Life_Expectancy_Project]( https://github.com/elizperezsilva/Life_Expectancy_Project)**  
+*The purpose of the analysis on life expectancy is to uncover potential patterns that affect the life expectancy in different communities by analyzing the correlations between factors such as; country development status, disease management, immunization coverage, and expenditure per citizen.*
+
+🔹 **[Prescription_ETL_Pipeline_Project](https://github.com/elizperezsilva/Prescription_ETL_Pipeline_Project)**  
+*Optimizing the extraction, transformation, and loading (ETL) processes for prescription drug pricing data sourced from the California Health and Human Services Agency (CHHS), Food and Drug Administration (FDA) and Bureau of Labor Statistics (BLS).*
+
+🔹 **[Risk_Tolerance_Project](https://github.com/elizperezsilva/Risk_Tolerance_Project)**
+*This project uses machine learning models (DistilBERT and Sentence Transformers) to predict the risk tolerance of investors based on their responses to a set of questions. It also recommends an investment portfolio and visualizes the allocation based on the investor's risk tolerance.*
+
+🔹 **[More Projects...](https://github.com/elizperezsilva)**  
+*Explore my GitHub repositories for more data analysis and visualization projects!*  
 
 ## 📫 Connect With Me
 📧 **Email:** elizperezsilva@gmail.com
 
-💼 **LinkedIn:** [[[www.linkedin.com/in/elizperezs]]
+💼 **LinkedIn:** www.linkedin.com/in/elizperezs
 
-🌐 **Portfolio Website:** [Your GitHub Pages Link Here]  
+🌐 **Portfolio Website:** https://elizperezsilva.github.io/elizperezsilva/
 
 ![GitHub Stats](#) <!-- Add a GitHub stats card here -->
 
