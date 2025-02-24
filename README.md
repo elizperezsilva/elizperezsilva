@@ -74,5 +74,5 @@ Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **A
 
 🌐 **Portfolio Website:** https://elizperezsilva.github.io/elizperezsilva/
 
-![GitHub Stats](#) (https://github-readme-stats.vercel.app/api?username=elizperezsilva&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elizperezsilva&show_icons=true&theme=tokyonight)
 
