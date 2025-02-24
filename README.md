@@ -42,6 +42,7 @@ Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **A
 
 ## 🛠 Skills & Certifications
 - **Technical Skills:** Excel, MS Word, VBA, R, Python, SQL, Google Suite, Adobe Creative Suite
+  
 ![resized_IMG_6790](https://github.com/user-attachments/assets/b9a9946b-4a37-4172-957c-a8090f5e6e5b)
 ![resized_IMG_6789](https://github.com/user-attachments/assets/f42de1d0-16a3-4cfa-b899-e89c305a63ae)
 ![resized_IMG_6788](https://github.com/user-attachments/assets/106fd004-1b39-4dbd-b32a-51e670e3952f)
