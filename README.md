@@ -1,5 +1,3 @@
-![Profile Banner](#) <!-- Add a banner image here -->
-
 ## About Me
 Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **Accounting and Business Administration**. I'm passionate about leveraging data to drive decision-making and uncover insights. Here, you'll find my projects showcasing my skills in **Python, SQL, Excel, Tableau, R, and VBA**.
 
@@ -15,6 +13,7 @@ Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **A
 🎓 **University of California, Irvine** *(Jun 2024 - Dec 2024)*  
 **Data Analytics Boot Camp**  
 - Hands-on training in **Excel, VBA, Tableau, R, Python, and SQL**
+![IMG_6791](https://github.com/user-attachments/assets/2bc68ab1-e70a-4e2c-8e79-6947fed53393)
 
 🎓 **Santa Rosa Junior College** *(Aug 2020 - Dec 2022)*  
 **Business Administration for Transfer**  
@@ -42,7 +41,12 @@ Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **A
 - Delivered exceptional customer service during store liquidation  
 
 ## 🛠 Skills & Certifications
-- **Technical Skills:** Excel, MS Word, VBA, R, Python, SQL, Google Suite, Adobe Creative Suite  
+- **Technical Skills:** Excel, MS Word, VBA, R, Python, SQL, Google Suite, Adobe Creative Suite
+![resized_IMG_6790](https://github.com/user-attachments/assets/b9a9946b-4a37-4172-957c-a8090f5e6e5b)
+![resized_IMG_6789](https://github.com/user-attachments/assets/f42de1d0-16a3-4cfa-b899-e89c305a63ae)
+![resized_IMG_6788](https://github.com/user-attachments/assets/106fd004-1b39-4dbd-b32a-51e670e3952f)
+![resized_IMG_6787](https://github.com/user-attachments/assets/0595bec5-9aed-4786-a6ca-1423eacd80eb)
+![resized_IMG_6786](https://github.com/user-attachments/assets/b50c8f75-58b3-4b17-9b74-526bf2081bfa)
 - **Languages:** Fluent in Spanish  
 - **Professional Development:** Accounting Forum Member (Since Fall 2023)  
 - **Leadership:** Gateway to Professional Success Program  
@@ -70,5 +74,5 @@ Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **A
 
 🌐 **Portfolio Website:** https://elizperezsilva.github.io/elizperezsilva/
 
-![GitHub Stats](#) <!-- Add a GitHub stats card here -->
+![GitHub Stats](#) (https://github-readme-stats.vercel.app/api?username=elizperezsilva&show_icons=true&theme=tokyonight)
 
