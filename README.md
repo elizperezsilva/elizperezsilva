@@ -1,6 +1,3 @@
-## About Me
-Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **Accounting and Business Administration**. I'm passionate about leveraging data to drive decision-making and uncover insights. Here, you'll find my projects showcasing my skills in **Python, SQL, Excel, Tableau, R, and VBA**.
-
 ## 📜 Education
 🎓 **Sonoma State University** *(Jan 2023 - Present)*  
 **Bachelor of Science, Business Administration (Accounting Concentration)**  
@@ -20,7 +17,7 @@ Hi! I'm **Elizabeth Perez**, a budding **Data Analyst** with a background in **A
 - **Relevant Coursework:** Financial Accounting, Managerial Accounting, Economics, Computing Technology  
 
 ## 💼 Work Experience
-🧑‍💻 **Pisenti & Brinker LLP** *(Jan 2025 - May 2025)*  
+🧑‍💻 **Pisenti & Brinker LLP** *(Jan 2025 - Present)*  
 **Audit Intern**  
 - Assist in engagement set up, perform testing procedures over account balances and prepare financial statements for audits, reviews and compilations
 - Develop a working knowledge of generally accepted auditing standards and firms auditing software
