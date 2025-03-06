@@ -1,3 +1,7 @@
+## About me
+
+Hi! I'm **Elizabeth Perez Silva**, a budding Data Analyst with a background in Accounting and Business Administration. I'm passionate about leveraging data to drive decision-making and uncover insights. Here, you'll find my projects showcasing my skills in Python, SQL, Excel, Tableau, R, and VBA.
+
 ## 📜 Education
 🎓 **Sonoma State University** *(Jan 2023 - Present)*  
 **Bachelor of Science, Business Administration (Accounting Concentration)**  
