@@ -3,7 +3,7 @@
 Hi! I'm **Elizabeth Perez Silva**, a budding Analyst with a background in Accounting and Business Administration. I'm passionate about leveraging data to drive decision-making and uncover insights. Here, you'll find my education and work history along with projects showcasing my skills in Python, SQL, Excel, Tableau, R, and VBA.
 
 ## 📜 Education
-🎓 **Sonoma State University** *(January 2023 - May 2025)*  
+🎓 **Sonoma State University**  
 **Bachelor of Science, Business Administration (Accounting Concentration)**  
 - **Expected 150- Unit CPA Eligibility:** December 2025
 
@@ -11,12 +11,12 @@ Hi! I'm **Elizabeth Perez Silva**, a budding Analyst with a background in Accoun
 
 - **Relevant Coursework:** Individual Taxation, Auditing, Governmental Accounting, Ethical Reasoning in Accounting, Advanced Accounting, Cost Accounting, Corporation & Estate Taxation, Intro to MIS, Business Data Analysis & Interpretation, Operations & Supply Chain Management, Managerial Finance, Marketing
 
-🎓 **University of California, Irvine** *(Jun 2024 - Dec 2024)*  
+🎓 **University of California, Irvine** 
 **Data Analytics Boot Camp**  
 - Hands-on training in **Excel, VBA, Tableau, R, Python, and SQL**
 ![IMG_6791](https://github.com/user-attachments/assets/2bc68ab1-e70a-4e2c-8e79-6947fed53393)
 
-🎓 **Santa Rosa Junior College** *(Aug 2020 - Dec 2022)*  
+🎓 **Santa Rosa Junior College**
 **Business Administration for Transfer**  
 - **Relevant Coursework:** Financial Accounting, Managerial Accounting, Economics, Computing Technology  
 
