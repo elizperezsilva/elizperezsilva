@@ -21,7 +21,7 @@ Hi! I'm **Elizabeth Perez Silva**, a budding Analyst with a background in Accoun
 - **Relevant Coursework:** Financial Accounting, Managerial Accounting, Economics, Computing Technology  
 
 ## 💼 Work Experience
-🧑‍💻 **Frank, Rimerman $ Co. LLP** *(June 2025 - August 2025)*  
+🧑‍💻 **Frank, Rimerman & Co. LLP** *(June 2025 - August 2025)*  
 **Incoming Family Office Intern!**  
 
 🛍 **Target** *(Jan 2019 - Present)*  
