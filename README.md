@@ -6,13 +6,10 @@ Hi! I'm **Elizabeth Perez Silva**, a budding Analyst with a background in Accoun
 🎓 **Sonoma State University**  
 **Bachelor of Science, Business Administration (Accounting Concentration)**  
 - **Expected 150- Unit CPA Eligibility:** December 2025
-
-**Major GPA:** 3.36 | **Overall GPA:** 3.2
-
 - **Relevant Coursework:** Individual Taxation, Auditing, Governmental Accounting, Ethical Reasoning in Accounting, Advanced Accounting, Cost Accounting, Corporation & Estate Taxation, Intro to MIS, Business Data Analysis & Interpretation, Operations & Supply Chain Management, Managerial Finance, Marketing
 
-🎓 **University of California, Irvine** 
-**Data Analytics Boot Camp**  
+🎓 **University of California, Irvine**  
+**Data Analytics Boot Camp Certificate**  
 - Hands-on training in **Excel, VBA, Tableau, R, Python, and SQL**
 ![IMG_6791](https://github.com/user-attachments/assets/2bc68ab1-e70a-4e2c-8e79-6947fed53393)
 
