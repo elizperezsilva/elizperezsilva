@@ -29,9 +29,9 @@ Hi! I'm **Elizabeth Perez Silva**, a budding Analyst with a background in Accoun
 
 🧑‍💻 **Pisenti & Brinker LLP** *(Jan 2025 - April 2025)*  
 **Audit Intern**  
-- Assist in engagement set up, perform testing procedures over account balances and prepare financial statements for audits, reviews and compilations
-- Develop a working knowledge of generally accepted auditing standards and firms auditing software
-- Keep up-to-date time records in firm’s client project software
+- Supported audits for 18 clients across industries including construction, non-profit, and hospitality, performing testing over revenue, expenses, payroll, investments, and internal controls.
+- Conducted detailed audit procedures such as journal entry testing, account reconciliations, and financial analytics to assess accuracy, cut-off, and compliance.
+- Assisted in preparing financial statements, trial balances, and documentation to support audit opinions and ensure GAAP compliance.
 
 📊 **Graton Resort & Casino** *(Jun 2023 - Jul 2023)*  
 **Temp Accounting Auditor**  
