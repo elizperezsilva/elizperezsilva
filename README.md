@@ -1,13 +1,13 @@
 ## About me
 
-Hi! I'm **Elizabeth Perez Silva**, a budding Data Analyst with a background in Accounting and Business Administration. I'm passionate about leveraging data to drive decision-making and uncover insights. Here, you'll find my education and work history along with projects showcasing my skills in Python, SQL, Excel, Tableau, R, and VBA.
+Hi! I'm **Elizabeth Perez Silva**, a budding Analyst with a background in Accounting and Business Administration. I'm passionate about leveraging data to drive decision-making and uncover insights. Here, you'll find my education and work history along with projects showcasing my skills in Python, SQL, Excel, Tableau, R, and VBA.
 
 ## 📜 Education
-🎓 **Sonoma State University** *(Jan 2023 - Present)*  
+🎓 **Sonoma State University** *(January 2023 - May 2025)*  
 **Bachelor of Science, Business Administration (Accounting Concentration)**  
-- **Expected Graduation:** May 2025 (150-Unit CPA eligibility requirement)
+- **Expected 150- Unit CPA Eligibility:** December 2025
 
-**Major GPA:** 3.285 | **Overall GPA:** 3.128  
+**Major GPA:** 3.36 | **Overall GPA:** 3.2
 
 - **Relevant Coursework:** Individual Taxation, Auditing, Governmental Accounting, Ethical Reasoning in Accounting, Advanced Accounting, Cost Accounting, Corporation & Estate Taxation, Intro to MIS, Business Data Analysis & Interpretation, Operations & Supply Chain Management, Managerial Finance, Marketing
 
@@ -21,27 +21,26 @@ Hi! I'm **Elizabeth Perez Silva**, a budding Data Analyst with a background in A
 - **Relevant Coursework:** Financial Accounting, Managerial Accounting, Economics, Computing Technology  
 
 ## 💼 Work Experience
-🧑‍💻 **Pisenti & Brinker LLP** *(Jan 2025 - Present)*  
-**Audit Intern**  
-- Assist in engagement set up, perform testing procedures over account balances and prepare financial statements for audits, reviews and compilations
-- Develop a working knowledge of generally accepted auditing standards and firms auditing software
-- Keep up-to-date time records in firm’s client project software
+🧑‍💻 **Frank, Rimerman $ Co. LLP** *(June 2025 - August 2025)*  
+**Incoming Family Office Intern!**  
 
 🛍 **Target** *(Jan 2019 - Present)*  
 **Style Consultant**  
 - Monitor sales trends to optimize inventory and merchandising strategies  
 - Ensure personalized guest interactions to enhance customer experience  
-- Manage daily inventory processing for over 1,000+ units  
+- Manage daily inventory processing for over 1,000+ units
+
+🧑‍💻 **Pisenti & Brinker LLP** *(Jan 2025 - April 2025)*  
+**Audit Intern**  
+- Assist in engagement set up, perform testing procedures over account balances and prepare financial statements for audits, reviews and compilations
+- Develop a working knowledge of generally accepted auditing standards and firms auditing software
+- Keep up-to-date time records in firm’s client project software
 
 📊 **Graton Resort & Casino** *(Jun 2023 - Jul 2023)*  
 **Temp Accounting Auditor**  
 - Conducted audits of gaming and non-gaming areas  
 - Verified balances and generated financial reports using Excel  
 - Identified and documented compliance violations  
-
-🏬 **Sears** *(Aug 2018 - Jan 2019)*  
-**Associate**  
-- Delivered exceptional customer service during store liquidation  
 
 ## 🛠 Skills & Certifications
 - **Technical Skills:** Excel, MS Word, VBA, R, Python, SQL, Google Suite, Adobe Creative Suite
